@@ -1,34 +1,44 @@
-# Personal Website
+# Vyshakh S Govind - Personal Website
 
-Welcome to my personal website! This repository contains the code for my site, where I showcase my projects, share blog posts, and provide information about myself.
+This repository contains the code for my personal website, showcasing my portfolio, skills, and contact information.
 
-## Features
+## Description
 
-- **Projects:** Explore the various projects I've worked on.
-- **Blog:** Read my latest blog posts on topics ranging from technology to personal development.
-- **About Me:** Learn more about my background, skills, and interests.
+Welcome to my personal website! This site serves as a portfolio and online presence where I highlight my skills, projects, and experiences as a full-stack developer.
+
+### Features
+
+- **Home:** Introduction to who I am, showcasing a dynamic hero section with my name and professional titles.
+- **About:** Detailed information about my background, expertise, and contact information.
+- **Skills:** Highlighting my proficiency in front-end and back-end web development.
+- **Portfolio:** A visual collection of my photography work and potentially other projects.
+- **Contact:** A section to connect with me directly or through a contact form.
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- [React](https://reactjs.org/) for the frontend
+- HTML5, CSS3, JavaScript
+- Bootstrap for styling
+- AOS, Glightbox, Swiper for various functionalities
 
-## Getting Started
+## Setup Instructions
 
 To run this website locally, follow these steps:
 
-1. Clone this repository.
-2. Navigate to the project directory.
-3. Open the `index.html` file in your web browser.
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your preferred web browser.
 
-## Contributing
+## About Me
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
+I'm Vyshakh S Govind, a passionate full-stack developer with expertise in creating dynamic and engaging web applications.
 
-## Contact
+## Contact Information
 
-If you have any questions or want to get in touch with me, you can reach me at [your-email@example.com](mailto:your-email@example.com).
+- **Email:** vyshakh542@gmail.com
+- **Phone:** +91 7025373225
+- **Location:** Calicut, Kerala
 
-Happy browsing! 🚀
+Feel free to reach out for collaboration opportunities, project discussions, or just to chat about design and development trends!
+
+---
+
+This README is a brief overview of my personal website. Explore the code for a deeper understanding of my projects and experiences!
